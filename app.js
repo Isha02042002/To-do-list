@@ -1,5 +1,5 @@
 //jshint esversion:6
-const uri = "mongodb+srv://ishakharkia:Isha2002@cluster0.8lzzhuv.mongodb.net/?retryWrites=true&w=majority";
+//const uri = Your mongodb client 
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const express = require("express");
 const bodyParser = require("body-parser");
